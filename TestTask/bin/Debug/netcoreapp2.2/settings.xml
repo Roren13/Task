@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dbConfiguration>
+  <ConnectionString>Data Source=MyDatabase.sqlite;Version=3;</ConnectionString>
+  <TargetFolder>C:\Users\user\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.2\</TargetFolder>
+      <TableSettings deleteAfter ="true">
+         <TableName>test</TableName>
+         <Columns>
+             <Column>id</Column>
+             <Column>name</Column>
+             <Column>age</Column>
+         </Columns>
+     </TableSettings>
+</dbConfiguration>

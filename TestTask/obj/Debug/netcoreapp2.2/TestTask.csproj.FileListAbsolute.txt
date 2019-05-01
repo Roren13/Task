@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.2\TestTask.deps.json
+C:\Users\user\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.2\TestTask.runtimeconfig.json
+C:\Users\user\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.2\TestTask.runtimeconfig.dev.json
+C:\Users\user\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.2\TestTask.dll
+C:\Users\user\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.2\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.2\TestTask.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.2\TestTask.AssemblyInfo.cs
+C:\Users\user\source\repos\TestTask\TestTask\bin\Debug\netcoreapp2.2\TestTask.pdb
+C:\Users\user\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.2\TestTask.dll
+C:\Users\user\source\repos\TestTask\TestTask\obj\Debug\netcoreapp2.2\TestTask.pdb
